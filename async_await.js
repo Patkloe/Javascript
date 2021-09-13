@@ -6,3 +6,4 @@ async function myDisplay() {
 }
 
 myDisplay();
+ //https://developer.mozilla.org/fr/docs/Learn/JavaScript/Asynchronous/Async_await
